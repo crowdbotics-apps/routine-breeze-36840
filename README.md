@@ -83,6 +83,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-google-calendar](screens/google-calendar)
 - [screen-appointment-booking](screens/book-appointment)
 - [screen-appointment-calendar-view](screens/appointment-calendar)
+- [screen-advance-search](screens/advance-search)
 
 # Getting started: Frontend
 
