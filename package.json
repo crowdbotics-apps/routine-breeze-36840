@@ -23,6 +23,7 @@
     "@screens/onboarding-choose-industry": "file:./screens/onboarding-choose-industry/",
     "@screens/settings": "file:./screens/settings/",
     "@screens/support-faq": "file:./screens/support-faq/",
+    "@screens/token": "file:./screens/token/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-dom": "^18.2.0",

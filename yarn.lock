@@ -1257,7 +1257,10 @@
 "@screens/settings@file:./screens/settings":
   version "1.0.0"
 
-"@screens/support-faq@file:./screens/support-faq/":
+"@screens/support-faq@file:./screens/support-faq":
+  version "1.0.0"
+
+"@screens/token@file:./screens/token/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
