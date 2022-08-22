@@ -81,6 +81,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-maps](modules/maps)
 - [screen-direct-messages](screens/direct-messages)
 - [screen-google-calendar](screens/google-calendar)
+- [screen-appointment-booking](screens/book-appointment)
 
 # Getting started: Frontend
 
