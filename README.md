@@ -68,6 +68,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-token](screens/token)
 - [screen-shopping-cart](screens/shopping-cart)
 - [react-native-user-profile](modules/user-profile)
+- [django-push-notifications](backend/modules)
 
 # Getting started: Frontend
 
