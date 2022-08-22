@@ -66,6 +66,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [terms-and-conditions]()
 - [screen-support-faq](screens/support-faq)
 - [screen-token](screens/token)
+- [screen-shopping-cart](screens/shopping-cart)
 
 # Getting started: Frontend
 
