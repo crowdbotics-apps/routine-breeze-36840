@@ -71,6 +71,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-push-notifications](backend/modules)
 - [screen-rate-the-app](screens/rate-the-app)
 - [payments]()
+- [privacy-policy]()
 
 # Getting started: Frontend
 
