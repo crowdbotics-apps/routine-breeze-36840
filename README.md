@@ -76,6 +76,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-store-order-waiting-list](screens/order-waiting-list)
 - [screen-order-summary](screens/order-summary)
 - [screen-messages-listing](screens/messages-listing)
+- [screen-notifications-preference](screens/notifications-preference)
 
 # Getting started: Frontend
 
