@@ -82,6 +82,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-direct-messages](screens/direct-messages)
 - [screen-google-calendar](screens/google-calendar)
 - [screen-appointment-booking](screens/book-appointment)
+- [screen-appointment-calendar-view](screens/appointment-calendar)
 
 # Getting started: Frontend
 
