@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-login](modules/login)
 - [screen-onboarding-add-certificate](screens/onboarding-add-certificate)
 - [screen-onboarding-choose-industry](screens/onboarding-choose-industry)
+- [screen-settings](screens/settings)
 
 # Getting started: Frontend
 

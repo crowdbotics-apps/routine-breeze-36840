@@ -1243,7 +1243,10 @@
 "@screens/onboarding-add-certificate@file:./screens/onboarding-add-certificate":
   version "1.0.0"
 
-"@screens/onboarding-choose-industry@file:./screens/onboarding-choose-industry/":
+"@screens/onboarding-choose-industry@file:./screens/onboarding-choose-industry":
+  version "1.0.0"
+
+"@screens/settings@file:./screens/settings/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
