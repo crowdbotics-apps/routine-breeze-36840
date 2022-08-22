@@ -73,6 +73,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [payments]()
 - [privacy-policy]()
 - [screen-order-complete](screens/order-complete)
+- [screen-store-order-waiting-list](screens/order-waiting-list)
 
 # Getting started: Frontend
 

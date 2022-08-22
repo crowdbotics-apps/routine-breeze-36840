@@ -25,6 +25,7 @@
     "@screens/onboarding-add-certificate": "file:./screens/onboarding-add-certificate/",
     "@screens/onboarding-choose-industry": "file:./screens/onboarding-choose-industry/",
     "@screens/order-complete": "file:./screens/order-complete/",
+    "@screens/order-waiting-list": "file:./screens/order-waiting-list/",
     "@screens/rate-the-app": "file:./screens/rate-the-app/",
     "@screens/settings": "file:./screens/settings/",
     "@screens/shopping-cart": "file:./screens/shopping-cart/",

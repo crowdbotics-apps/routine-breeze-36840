@@ -1318,7 +1318,10 @@
 "@screens/onboarding-choose-industry@file:./screens/onboarding-choose-industry":
   version "1.0.0"
 
-"@screens/order-complete@file:./screens/order-complete/":
+"@screens/order-complete@file:./screens/order-complete":
+  version "1.0.0"
+
+"@screens/order-waiting-list@file:./screens/order-waiting-list/":
   version "1.0.0"
 
 "@screens/rate-the-app@file:./screens/rate-the-app":
