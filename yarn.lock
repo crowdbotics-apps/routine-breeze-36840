@@ -1077,7 +1077,7 @@
     "@react-navigation/stack" "^5.14.2"
     react-native-keyboard-aware-scroll-view "^0.9.3"
 
-"@modules/maps@file:./modules/maps/":
+"@modules/maps@file:./modules/maps":
   version "1.0.0"
 
 "@modules/payments@file:./modules/payments":
@@ -1314,6 +1314,9 @@
     redux "^4.1.2"
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
+
+"@screens/direct-messages@file:./screens/direct-messages/":
+  version "1.0.0"
 
 "@screens/invite-friends@file:./screens/invite-friends":
   version "1.0.0"
