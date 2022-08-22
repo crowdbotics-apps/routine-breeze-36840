@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@modules/login": "file:./modules/login/",
+    "@modules/payments": "file:./modules/payments",
     "@modules/splash": "file:./modules/splash/",
     "@modules/terms-and-conditions": "file:./modules/terms-and-conditions",
     "@modules/user-profile": "file:./modules/user-profile/",
@@ -27,7 +28,9 @@
     "@screens/shopping-cart": "file:./screens/shopping-cart/",
     "@screens/support-faq": "file:./screens/support-faq/",
     "@screens/token": "file:./screens/token/",
+    "@stripe/stripe-react-native": "^0.2.2",
     "axios": "^0.21.1",
+    "babel-plugin-import-glob": "^2.0.0",
     "react": "17.0.1",
     "react-dom": "^18.2.0",
     "react-native": "0.64.0",
