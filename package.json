@@ -40,6 +40,7 @@
     "@screens/rate-the-app": "file:./screens/rate-the-app/",
     "@screens/settings": "file:./screens/settings/",
     "@screens/shopping-cart": "file:./screens/shopping-cart/",
+    "@screens/social-feed": "file:./screens/social-feed/",
     "@screens/support-faq": "file:./screens/support-faq/",
     "@screens/token": "file:./screens/token/",
     "@stripe/stripe-react-native": "^0.2.2",
