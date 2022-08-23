@@ -1360,13 +1360,16 @@
 "@screens/rate-the-app@file:./screens/rate-the-app":
   version "1.0.0"
 
+"@screens/search-listing@file:./screens/search-listing/":
+  version "1.0.0"
+
 "@screens/settings@file:./screens/settings":
   version "1.0.0"
 
 "@screens/shopping-cart@file:./screens/shopping-cart":
   version "1.0.0"
 
-"@screens/social-feed@file:./screens/social-feed/":
+"@screens/social-feed@file:./screens/social-feed":
   version "1.0.0"
 
 "@screens/support-faq@file:./screens/support-faq":
