@@ -26,6 +26,7 @@
     "@screens/advance-search": "file:./screens/advance-search/",
     "@screens/appointment-calendar": "file:./screens/appointment-calendar/",
     "@screens/book-appointment": "file:./screens/book-appointment/",
+    "@screens/create-post-1": "file:./screens/create-post-1/",
     "@screens/direct-messages": "file:./screens/direct-messages/",
     "@screens/google-calendar": "file:./screens/google-calendar/",
     "@screens/invite-friends": "file:./screens/invite-friends/",

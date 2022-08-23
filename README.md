@@ -84,6 +84,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-appointment-booking](screens/book-appointment)
 - [screen-appointment-calendar-view](screens/appointment-calendar)
 - [screen-advance-search](screens/advance-search)
+- [screen-create-post-2](screens/create-post-1)
 
 # Getting started: Frontend
 
