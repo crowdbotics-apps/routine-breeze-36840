@@ -1360,9 +1360,6 @@
 "@screens/rate-the-app@file:./screens/rate-the-app":
   version "1.0.0"
 
-"@screens/search-listing@file:./screens/search-listing/":
-  version "1.0.0"
-
 "@screens/settings@file:./screens/settings":
   version "1.0.0"
 

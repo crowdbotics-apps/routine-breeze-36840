@@ -38,7 +38,6 @@
     "@screens/order-summary": "file:./screens/order-summary/",
     "@screens/order-waiting-list": "file:./screens/order-waiting-list/",
     "@screens/rate-the-app": "file:./screens/rate-the-app/",
-    "@screens/search-listing": "file:./screens/search-listing/",
     "@screens/settings": "file:./screens/settings/",
     "@screens/shopping-cart": "file:./screens/shopping-cart/",
     "@screens/social-feed": "file:./screens/social-feed/",

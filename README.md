@@ -86,7 +86,6 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-advance-search](screens/advance-search)
 - [screen-create-post-2](screens/create-post-1)
 - [screen-social-feed](screens/social-feed)
-- [screen-search-listing](screens/search-listing)
 
 # Getting started: Frontend
 
